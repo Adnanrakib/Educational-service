@@ -1,70 +1,15 @@
-# Getting Started with Create React App
+Getting Started with Educational Service site.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This Project About Child Teaching Services "https://dreamy-newton-d69ee4.netlify.app/"
 
-## Available Scripts
+Available Scripts
 
-In the project directory, you can run:
+About Learning Service:
 
-### `npm start`
+➡ Kids Educational of Service -
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Education Service Resources And Informations on ways to ensure continuity in the educational experience of Children and youth in care and provide higher education opportunities for your transitioning from out-of-home care,,, including special education resources.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+➡ A Part from getting Education. The School Life is the wonderful Period of our life.the students learns a lot of things from the school environment incluuding,,,, patience, sincerity, loyalty, Friendship, Discipline Etc.... The School Is Really an unforgettable account of our experiences.
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+➡ Goods and services. Education is an important part of life. The amount and type of education that individuals receive is a major influence on both the types of jobs they are able to hold and their earnings. Lifelong learning is important in acquiring new knowledge and upgrading one's skills, particularly in this age of rapid technological and economic changes. The educational services industry includes a variety of institutions that offer academic education, career and technical instruction, and other education and training to millions of students each year.
